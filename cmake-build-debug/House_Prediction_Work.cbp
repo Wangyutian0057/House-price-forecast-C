@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="House_Prediction_Work"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/45224/Desktop/房价预测（C语言）/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\45224\Desktop\房价预测（C语言）\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\45224\Desktop\房价预测（C语言）\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\45224\Desktop\房价预测（C语言）\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\45224\Desktop\房价预测（C语言）\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="House_Prediction_Work">
+				<Option output="C:/Users/45224/Desktop/房价预测（C语言）/cmake-build-debug/House_Prediction_Work.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/45224/Desktop/房价预测（C语言）/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\45224\Desktop\房价预测（C语言）\cmake-build-debug\Makefile VERBOSE=1 House_Prediction_Work"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\45224\Desktop\房价预测（C语言）\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\45224\Desktop\房价预测（C语言）\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\45224\Desktop\房价预测（C语言）\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="House_Prediction_Work/fast">
+				<Option output="C:/Users/45224/Desktop/房价预测（C语言）/cmake-build-debug/House_Prediction_Work.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/45224/Desktop/房价预测（C语言）/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\45224\Desktop\房价预测（C语言）\cmake-build-debug\Makefile VERBOSE=1 House_Prediction_Work/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\45224\Desktop\房价预测（C语言）\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\45224\Desktop\房价预测（C语言）\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\45224\Desktop\房价预测（C语言）\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/45224/Desktop/房价预测（C语言）/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\45224\Desktop\房价预测（C语言）\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\45224\Desktop\房价预测（C语言）\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\45224\Desktop\房价预测（C语言）\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\45224\Desktop\房价预测（C语言）\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/45224/Desktop/房价预测（C语言）/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\45224\Desktop\房价预测（C语言）\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\45224\Desktop\房价预测（C语言）\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\45224\Desktop\房价预测（C语言）\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\45224\Desktop\房价预测（C语言）\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/45224/Desktop/房价预测（C语言）/Debug/House Prediction Work.exe">
+			<Option target="House_Prediction_Work"/>
+		</Unit>
+		<Unit filename="C:/Users/45224/Desktop/房价预测（C语言）/Debug/House Prediction Work.ilk">
+			<Option target="House_Prediction_Work"/>
+		</Unit>
+		<Unit filename="C:/Users/45224/Desktop/房价预测（C语言）/Debug/House Prediction Work.pdb">
+			<Option target="House_Prediction_Work"/>
+		</Unit>
+		<Unit filename="C:/Users/45224/Desktop/房价预测（C语言）/House Prediction Work.sln">
+			<Option target="House_Prediction_Work"/>
+		</Unit>
+		<Unit filename="C:/Users/45224/Desktop/房价预测（C语言）/House Prediction Work/Debug/House Pr.8aa788b5.tlog/CL.command.1.tlog">
+			<Option target="House_Prediction_Work"/>
+		</Unit>
+		<Unit filename="C:/Users/45224/Desktop/房价预测（C语言）/House Prediction Work/Debug/House Pr.8aa788b5.tlog/CL.read.1.tlog">
+			<Option target="House_Prediction_Work"/>
+		</Unit>
+		<Unit filename="C:/Users/45224/Desktop/房价预测（C语言）/House Prediction Work/Debug/House Pr.8aa788b5.tlog/CL.write.1.tlog">
+			<Option target="House_Prediction_Work"/>
+		</Unit>
+		<Unit filename="C:/Users/45224/Desktop/房价预测（C语言）/House Prediction Work/Debug/House Pr.8aa788b5.tlog/House Prediction Work.lastbuildstate">
+			<Option target="House_Prediction_Work"/>
+		</Unit>
+		<Unit filename="C:/Users/45224/Desktop/房价预测（C语言）/House Prediction Work/Debug/House Pr.8aa788b5.tlog/link.command.1.tlog">
+			<Option target="House_Prediction_Work"/>
+		</Unit>
+		<Unit filename="C:/Users/45224/Desktop/房价预测（C语言）/House Prediction Work/Debug/House Pr.8aa788b5.tlog/link.read.1.tlog">
+			<Option target="House_Prediction_Work"/>
+		</Unit>
+		<Unit filename="C:/Users/45224/Desktop/房价预测（C语言）/House Prediction Work/Debug/House Pr.8aa788b5.tlog/link.write.1.tlog">
+			<Option target="House_Prediction_Work"/>
+		</Unit>
+		<Unit filename="C:/Users/45224/Desktop/房价预测（C语言）/House Prediction Work/Debug/House Prediction Work.exe.recipe">
+			<Option target="House_Prediction_Work"/>
+		</Unit>
+		<Unit filename="C:/Users/45224/Desktop/房价预测（C语言）/House Prediction Work/Debug/House Prediction Work.ilk">
+			<Option target="House_Prediction_Work"/>
+		</Unit>
+		<Unit filename="C:/Users/45224/Desktop/房价预测（C语言）/House Prediction Work/Debug/House Prediction Work.log">
+			<Option target="House_Prediction_Work"/>
+		</Unit>
+		<Unit filename="C:/Users/45224/Desktop/房价预测（C语言）/House Prediction Work/Debug/main.obj">
+			<Option target="House_Prediction_Work"/>
+		</Unit>
+		<Unit filename="C:/Users/45224/Desktop/房价预测（C语言）/House Prediction Work/Debug/vc142.idb">
+			<Option target="House_Prediction_Work"/>
+		</Unit>
+		<Unit filename="C:/Users/45224/Desktop/房价预测（C语言）/House Prediction Work/Debug/vc142.pdb">
+			<Option target="House_Prediction_Work"/>
+		</Unit>
+		<Unit filename="C:/Users/45224/Desktop/房价预测（C语言）/House Prediction Work/House Prediction Work.vcxproj">
+			<Option target="House_Prediction_Work"/>
+		</Unit>
+		<Unit filename="C:/Users/45224/Desktop/房价预测（C语言）/House Prediction Work/House Prediction Work.vcxproj.filters">
+			<Option target="House_Prediction_Work"/>
+		</Unit>
+		<Unit filename="C:/Users/45224/Desktop/房价预测（C语言）/House Prediction Work/House Prediction Work.vcxproj.user">
+			<Option target="House_Prediction_Work"/>
+		</Unit>
+		<Unit filename="C:/Users/45224/Desktop/房价预测（C语言）/House Prediction Work/Release/House Pr.8aa788b5.tlog/CL.command.1.tlog">
+			<Option target="House_Prediction_Work"/>
+		</Unit>
+		<Unit filename="C:/Users/45224/Desktop/房价预测（C语言）/House Prediction Work/Release/House Pr.8aa788b5.tlog/House Prediction Work.lastbuildstate">
+			<Option target="House_Prediction_Work"/>
+		</Unit>
+		<Unit filename="C:/Users/45224/Desktop/房价预测（C语言）/House Prediction Work/Release/House Pr.8aa788b5.tlog/unsuccessfulbuild">
+			<Option target="House_Prediction_Work"/>
+		</Unit>
+		<Unit filename="C:/Users/45224/Desktop/房价预测（C语言）/House Prediction Work/Release/House Prediction Work.log">
+			<Option target="House_Prediction_Work"/>
+		</Unit>
+		<Unit filename="C:/Users/45224/Desktop/房价预测（C语言）/House Prediction Work/Release/vc142.pdb">
+			<Option target="House_Prediction_Work"/>
+		</Unit>
+		<Unit filename="C:/Users/45224/Desktop/房价预测（C语言）/House Prediction Work/in.txt">
+			<Option target="House_Prediction_Work"/>
+		</Unit>
+		<Unit filename="C:/Users/45224/Desktop/房价预测（C语言）/House Prediction Work/main.c">
+			<Option target="House_Prediction_Work"/>
+		</Unit>
+		<Unit filename="C:/Users/45224/Desktop/房价预测（C语言）/House Prediction Work/out.txt">
+			<Option target="House_Prediction_Work"/>
+		</Unit>
+		<Unit filename="C:/Users/45224/Desktop/房价预测（C语言）/House Prediction Work/test.txt">
+			<Option target="House_Prediction_Work"/>
+		</Unit>
+		<Unit filename="C:/Users/45224/Desktop/房价预测（C语言）/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
